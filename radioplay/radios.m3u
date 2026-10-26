@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1,Kalp fm
+https://yayin.kalpfm.com:8080/
+
+#EXTINF:-1,Kral pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+
+#EXTINF:-1,Marneuli fm
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
+#EXTINF:-1,დარდიმანდი
+http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
+
+#EXTINF:-1,ჩვენებური
+https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
