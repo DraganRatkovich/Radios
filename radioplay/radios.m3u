@@ -14,3 +14,12 @@ http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
 
 #EXTINF:-1,ჩვენებური
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
+
+#EXTINF:-1,Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+
+#EXTINF:-1,Power Türk acoustic
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+
+#EXTINF:-1,Music radio lounge
+https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
