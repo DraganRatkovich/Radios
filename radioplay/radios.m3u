@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,Power Türk
-https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-
-#EXTINF:-1,Power Türk acoustic
-https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-
-#EXTINF:-1,MusicRadioLofy
-https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
-
-#EXTINF:-1,TMBRadio
-http://s39.myradiostream.com:5458/
-
-#EXTINF:-1,Music radio lounge
-https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
-
 #EXTINF:-1,Kalp FM
-https://yayin.kalpfm.com:8080/
+https://yayin.kalpfm.com:8080
 
 #EXTINF:-1,Kral pop
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 
 #EXTINF:-1,Marneuli FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
+#EXTINF:-1,Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+
+#EXTINF:-1,Power Türk acoustic
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+
+#EXTINF:-1,Music Radio Lofy
+https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
+
+#EXTINF:-1,Music radio lounge
+https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
+
+#EXTINF:-1,TMB Radio
+http://s39.myradiostream.com:5458
 
 #EXTINF:-1,დარდიმანდი
 http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
@@ -35,3 +35,6 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/715
 
 #EXTINF:-1,Pos TV
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
+
+#EXTINF:-1,ATV
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
