@@ -6,6 +6,12 @@ https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:-1,Power Türk acoustic
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 
+#EXTINF:-1,MusicRadioLofy
+https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
+
+#EXTINF:-1,TMBRadio
+http://s39.myradiostream.com:5458/
+
 #EXTINF:-1,Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 
