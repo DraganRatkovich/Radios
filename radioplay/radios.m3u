@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Kalp fm
-https://yayin.kalpfm.com:8080/
-
-#EXTINF:-1,Kral pop
-https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-
-#EXTINF:-1,Marneuli fm
-http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
-
-#EXTINF:-1,დარდიმანდი
-http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
-
-#EXTINF:-1,ჩვენებური
-https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
-
 #EXTINF:-1,Power Türk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 
@@ -23,3 +8,24 @@ https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 
 #EXTINF:-1,Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
+
+#EXTINF:-1,Kalp FM
+https://yayin.kalpfm.com:8080/
+
+#EXTINF:-1,Kral pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+
+#EXTINF:-1,Marneuli FM
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
+#EXTINF:-1,დარდიმანდი
+http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
+
+#EXTINF:-1,ჩვენებური
+https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
+
+#EXTINF:-1,TV Imedi
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
+
+#EXTINF:-1,Pos TV
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
