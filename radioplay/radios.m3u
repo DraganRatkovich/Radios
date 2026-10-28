@@ -9,14 +9,17 @@ http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
 #EXTINF:-1,ჩვენებური
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 
+#EXTINF:-1,თბილისი FM
+http://iis.ge:8000/radiotbilisi.mp3
+
+#EXTINF:-1,Marneuli FM
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
 #EXTINF:-1,Kalp FM
 https://yayin.kalpfm.com:8080/stream?/;stream.aac
 
 #EXTINF:-1,Kral pop
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-
-#EXTINF:-1,Marneuli FM
-http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
 #EXTINF:-1,Power Türk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
@@ -39,14 +42,14 @@ https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 #EXTINF:-1,0R dinner lounge
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 
+#EXTINF:-1,0R hotel lounge
+https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
+
 #EXTINF:-1,TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
 
 #EXTINF:-1,Pos TV
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
-
-#EXTINF:-1,დარდიმანდი TV
-https://live5.mar.tv/efc06ba60cc9d60d66cbe33cc534714ff8b6817b8c7e35aa4f0a8fba928e73f4/27/index.m3u8
 
 #EXTINF:-1,ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
