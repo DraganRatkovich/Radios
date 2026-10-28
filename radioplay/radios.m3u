@@ -22,7 +22,7 @@ https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 
 #EXTINF:-1,TMB Radio
-http://s39.myradiostream.com:5458
+https://s39.myradiostream.com/:5458/listen.mp3
 
 #EXTINF:-1,დარდიმანდი
 http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
