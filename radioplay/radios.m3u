@@ -33,14 +33,14 @@ https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1,Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 
-#EXTINF:-1,0R restaurant lounge
-https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
-
 #EXTINF:-1,0R dinner lounge
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 
 #EXTINF:-1,0R hotel lounge
 https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
+
+#EXTINF:-1,0R restaurant lounge
+https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 
 #EXTINF:-1,TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
