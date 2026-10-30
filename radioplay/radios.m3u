@@ -25,6 +25,8 @@ https://s39.myradiostream.com/:5458/listen.mp3
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="რადიო",Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
+#EXTINF:-1 group-title="რადიო",0R coffee background
+https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="რადიო",0R dinner lounge
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="რადიო",0R hotel lounge
