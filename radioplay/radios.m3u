@@ -1,61 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1,არდაიდარდო
+#EXTINF:-1 group-title="Radio" radio="true",არდაიდარდო
 https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
 
-#EXTINF:-1,დარდიმანდი
+#EXTINF:-1 group-title="Radio" radio="true",დარდიმანდი
 http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
 
-#EXTINF:-1,რიონი FM
+#EXTINF:-1 group-title="Radio" radio="true",რიონი FM
 https://video.rionitv.com/s;stream.mp3
 
-#EXTINF:-1,ჩვენებური
+#EXTINF:-1 group-title="Radio" radio="true",ჩვენებური
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 
-#EXTINF:-1,Marneuli FM
+#EXTINF:-1 group-title="Radio" radio="true",Marneuli FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
-#EXTINF:-1,Kalp FM
+#EXTINF:-1 group-title="Radio" radio="true",Kalp FM
 https://yayin.kalpfm.com:8080/stream?/;stream.aac
 
-#EXTINF:-1,Kral pop
+#EXTINF:-1 group-title="Radio" radio="true",Kral pop
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 
-#EXTINF:-1,Power Türk
+#EXTINF:-1 group-title="Radio" radio="true",Power Türk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 
-#EXTINF:-1,Power Türk acoustic
+#EXTINF:-1 group-title="Radio" radio="true",Power Türk acoustic
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
 
-#EXTINF:-1,TMB Radio
+#EXTINF:-1 group-title="Radio" radio="true",TMB Radio
 https://s39.myradiostream.com/:5458/listen.mp3
 
-#EXTINF:-1,Music Radio Lofy
+#EXTINF:-1 group-title="Radio" radio="true",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 
-#EXTINF:-1,Music radio lounge
+#EXTINF:-1 group-title="Radio" radio="true",Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 
-#EXTINF:-1,0R dinner lounge
+#EXTINF:-1 group-title="Radio" radio="true",0R dinner lounge
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 
-#EXTINF:-1,0R hotel lounge
+#EXTINF:-1 group-title="Radio" radio="true",0R hotel lounge
 https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
 
-#EXTINF:-1,0R restaurant lounge
+#EXTINF:-1 group-title="Radio" radio="true",0R restaurant lounge
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 
-#EXTINF:-1,TV Imedi
+#EXTINF:-1 group-title="TV" tvg-id="tv-imedi",TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
 
-#EXTINF:-1,Pos TV
+#EXTINF:-1 group-title="TV" tvg-id="postv",Pos TV
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
 
-#EXTINF:-1,პირველი არხი
+#EXTINF:-1 group-title="TV" tvg-id="1tv",პირველი არხი
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7143/index.m3u8
 
-#EXTINF:-1,რუსთავი 2
+#EXTINF:-1 group-title="TV" tvg-id="rustavi2",რუსთავი 2
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7171/index.m3u8
 
-#EXTINF:-1,ATV
+#EXTINF:-1 group-title="TV" tvg-id="atv",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
