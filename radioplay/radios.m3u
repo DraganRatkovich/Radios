@@ -11,16 +11,6 @@ https://video.rionitv.com/s;stream.mp3
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
-#EXTINF:-1 group-title="რადიო",Kalp FM
-https://yayin.kalpfm.com:8080/stream?/;stream.aac
-#EXTINF:-1 group-title="რადიო",Kral pop
-https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",Power Türk
-https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",Power Türk acoustic
-https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",TMB Radio
-https://s39.myradiostream.com/:5458/listen.mp3
 #EXTINF:-1 group-title="რადიო",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="რადიო",Music radio lounge
@@ -33,6 +23,19 @@ https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="რადიო",0R restaurant lounge
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
+#EXTINF:-1 group-title="რადიო",Araz FM
+#EXTINF:-1 group-title="რადიო",Kalp FM
+https://yayin.kalpfm.com:8080/stream?/;stream.aac
+#EXTINF:-1 group-title="რადიო",Kral pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+#EXTINF:-1 group-title="რადიო",Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="რადიო",Power Türk acoustic
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 group-title="რადიო",TMB Radio
+https://s39.myradiostream.com/:5458/listen.mp3
+#EXTINF:-1 group-title="რადიო",Xəzər FM
+https://s40.myradiostream.com/22546/listen.mp3
 
 #EXTINF:-1 group-title="ქართული ტელევიზია",TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
@@ -45,6 +48,24 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/717
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Az TV
+https://az.tvstream.az/hls/stream9/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",ARB 24
+https://arb24.tvstream.az/hls/stream/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",ARB TV
+https://arb.tvstream.az/hls/stream5/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
+https://cbcsport.tvstream.az/hls/stream3/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
+https://ictimai.tvstream.az/hls/stream6/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Idman TV
+https://idman.tvstream.az/hls/stream4/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Real TV
+https://realtv.tvstream.az/hls/stream2/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Space TV
+https://space.tvstream.az/hls/stream8/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan TV",Xəzər TV
+https://xezer.tvstream.az/hls/stream/index.m3u8
 
 #EXTINF:-1 group-title="Türk TV",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
