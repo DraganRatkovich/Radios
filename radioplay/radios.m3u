@@ -5,8 +5,12 @@
 https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
 #EXTINF:-1 group-title="რადიო",დარდიმანდი
 http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
+#EXTINF:-1 group-title="რადიო",რადიო იმედი
+https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast
 #EXTINF:-1 group-title="რადიო",რიონი FM
 https://video.rionitv.com/s;stream.mp3
+#EXTINF:-1 group-title="რადიო",რადიო სივრცე
+https://proxy.streamer.mediabox.ge/ice/8000/sivrce
 #EXTINF:-1 group-title="რადიო",ჩვენებური
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="რადიო",მარნეული FM
