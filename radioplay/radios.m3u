@@ -1,49 +1,6 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="რადიო",არდაიდარდო
-https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
-#EXTINF:-1 group-title="რადიო",დარდიმანდი
-http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
-#EXTINF:-1 group-title="რადიო",რადიო იმედი
-https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast
-#EXTINF:-1 group-title="რადიო",რიონი FM
-https://video.rionitv.com/s;stream.mp3
-#EXTINF:-1 group-title="რადიო",რადიო სივრცე
-https://proxy.streamer.mediabox.ge/ice/8000/sivrce
-#EXTINF:-1 group-title="რადიო",ჩვენებური
-https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
-#EXTINF:-1 group-title="რადიო",მარნეული FM
-http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
-#EXTINF:-1 group-title="რადიო",Music Radio Lofy
-https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
-#EXTINF:-1 group-title="რადიო",Music radio lounge
-https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
-#EXTINF:-1 group-title="რადიო",0R coffee background
-https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
-#EXTINF:-1 group-title="რადიო",0R dinner lounge
-https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
-#EXTINF:-1 group-title="რადიო",0R hotel lounge
-https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
-#EXTINF:-1 group-title="რადიო",0R restaurant lounge
-https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
-#EXTINF:-1 group-title="რადიო",Araz FM
-https://s14.myradiostream.com/30454/listen.mp3
-#EXTINF:-1 group-title="რადიო",Kalp FM
-https://yayin.kalpfm.com:8080/stream?/;stream.aac
-#EXTINF:-1 group-title="რადიო",Kral pop
-https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",Kral pop Alternative
-https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",Power Türk
-https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",Power Türk acoustic
-https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-#EXTINF:-1 group-title="რადიო",TMB Radio
-https://s39.myradiostream.com/:5458/listen.mp3
-#EXTINF:-1 group-title="რადიო",Xəzər FM
-https://s40.myradiostream.com/22546/listen.mp3
-
 #EXTINF:-1 group-title="ქართული ტელევიზია",TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",Pos TV
@@ -52,6 +9,34 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/715
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7143/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",რუსთავი 2
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7171/index.m3u8
+
+#EXTINF:-1 group-title="ქართული რადიო",არდაიდარდო
+https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
+#EXTINF:-1 group-title="ქართული რადიო",დარდიმანდი
+http://nue01-edge01.itdc.ge/fm-dardimandi-97.1/index.m3u8
+#EXTINF:-1 group-title="ქართული რადიო",რადიო იმედი
+https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast
+#EXTINF:-1 group-title="ქართული რადიო",რიონი FM
+https://video.rionitv.com/s;stream.mp3
+#EXTINF:-1 group-title="ქართული რადიო",რადიო სივრცე
+https://proxy.streamer.mediabox.ge/ice/8000/sivrce
+#EXTINF:-1 group-title="ქართული რადიო",ჩვენებური
+https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
+#EXTINF:-1 group-title="რადიო",მარნეული FM
+http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
+
+#EXTINF:-1 group-title="Lounge radio",Music Radio Lofy
+https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
+#EXTINF:-1 group-title="Lounge radio",Music radio lounge
+https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
+#EXTINF:-1 group-title="Lounge radio",0R coffee background
+https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
+#EXTINF:-1 group-title="Lounge radio",0R dinner lounge
+https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
+#EXTINF:-1 group-title="Lounge radio",0R hotel lounge
+https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
+#EXTINF:-1 group-title="Lounge radio",0R restaurant lounge
+https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
@@ -73,6 +58,23 @@ https://realtv.tvstream.az/hls/stream2/index.m3u8
 https://space.tvstream.az/hls/stream8/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Xəzər TV
 https://xezer.tvstream.az/hls/stream/index.m3u8
+
+#EXTINF:-1 group-title="Azərbaycan radio",Araz FM
+https://s14.myradiostream.com/30454/listen.mp3
+#EXTINF:-1 group-title="Azərbaycan radio",AutoLife Azerbaijan
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:-1 group-title="Azərbaycan radio",Avto FM
+https://live.dinle.az/avtofm
+#EXTINF:-1 group-title="Azərbaycan radio",Baku Retro FM
+https://stream.bakuradioalliance.az/retrofm
+#EXTINF:-1 group-title="Azərbaycan radio",Enerji FM
+https://icecast.livetv.az/antennfm
+#EXTINF:-1 group-title="Azərbaycan radio",İçtimai radio
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan radio",Media FM
+https://icecast.livetv.az/mediafm
+#EXTINF:-1 group-title="Azərbaycan radio",Xəzər FM
+https://s40.myradiostream.com/22546/listen.mp3
 
 #EXTINF:-1 group-title="Türk TV",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -106,3 +108,16 @@ https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Türk TV",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Türk radio",Kalp FM
+https://yayin.kalpfm.com:8080/stream?/;stream.aac
+#EXTINF:-1 group-title="Türk radio",Kral pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Kral pop Alternative
+https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Power Türk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Power Türk acoustic
+https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",TMB Radio
+https://s39.myradiostream.com/:5458/listen.mp3
