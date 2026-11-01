@@ -25,6 +25,8 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
+#EXTINF:-1 group-title="Lounge radio",Lounge FM
+https://edge1.radyotvonline.net/shoutcast/play/loungefm
 #EXTINF:-1 group-title="Lounge radio",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music radio lounge
@@ -109,6 +111,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Türk TV",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Türk radio",Joy Türk
+https://25533.live.streamtheworld.com/JOY_TURKAAC.aac
 #EXTINF:-1 group-title="Türk radio",Kalp FM
 https://yayin.kalpfm.com:8080/stream?/;stream.aac
 #EXTINF:-1 group-title="Türk radio",Kral pop
