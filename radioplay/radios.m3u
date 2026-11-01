@@ -22,7 +22,7 @@ https://video.rionitv.com/s;stream.mp3
 https://proxy.streamer.mediabox.ge/ice/8000/sivrce
 #EXTINF:-1 group-title="ქართული რადიო",ჩვენებური
 https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
-#EXTINF:-1 group-title="რადიო",მარნეული FM
+#EXTINF:-1 group-title="ქართული რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
 #EXTINF:-1 group-title="Lounge radio",Lounge FM
