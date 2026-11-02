@@ -25,8 +25,10 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="ქართული რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
-#EXTINF:-1 group-title="Lounge radio",Lounge FM
-https://edge1.radyotvonline.net/shoutcast/play/loungefm
+#EXTINF:-1 group-title="Lounge radio",Airport lounge
+https://opml.radiotime.com/Tune.ashx?id=s336545
+#EXTINF:-1 group-title="Lounge radio",Amarij radio
+https://stream.zeno.fm/ezt6v218gfhvv
 #EXTINF:-1 group-title="Lounge radio",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music radio lounge
