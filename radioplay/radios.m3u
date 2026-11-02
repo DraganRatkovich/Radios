@@ -41,7 +41,7 @@ https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Smooth Bossa nova
 https://radio.hearme.fm:8800/stream
-#EXTINF:-1 group-title="რადიო",Smooth lounge radio
+#EXTINF:-1 group-title="Lounge radio",Smooth lounge radio
 https://radio.hearme.fm:8810/stream
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
