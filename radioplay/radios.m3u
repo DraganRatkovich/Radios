@@ -26,9 +26,9 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
 #EXTINF:-1 group-title="Lounge radio",Airport lounge
-https://opml.radiotime.com/Tune.ashx?id=s336545
-#EXTINF:-1 group-title="Lounge radio",Amarij radio
-https://stream.zeno.fm/ezt6v218gfhvv
+https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
+#EXTINF:-1 group-title="რადიო",Smooth lounge radio
+https://radio.hearme.fm:8810/stream
 #EXTINF:-1 group-title="Lounge radio",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music radio lounge
