@@ -52,6 +52,8 @@ https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=2a793b2548120f053
 https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",ARB TV
 https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
+#EXTINF:-1 group-title="Azərbaycan TV",Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV
 https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
