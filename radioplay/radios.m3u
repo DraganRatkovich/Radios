@@ -1,6 +1,13 @@
 
 #EXTM3U
 
+#EXTINF:-1 group-title="4K TV",Love Nature
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/31546/index.m3u8
+#EXTINF:-1 group-title="4K TV",BCU Kids
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/17023/index.m3u8
+#EXTINF:-1 group-title="4K TV",Venera TV мир дети
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/30150/index.m3u8
+
 #EXTINF:-1 group-title="ქართული ტელევიზია",TV Imedi
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",Pos TV
