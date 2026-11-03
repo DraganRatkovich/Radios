@@ -47,13 +47,13 @@ https://radio.hearme.fm:8810/stream
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Az TV
-https://yayin2.canlitv.fun/live/aztv.stream/chunklist_w1389474256.m3u8
+https://yayin2.canlitv.fun/live/aztv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",ARB 24
-https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w1084070646.m3u8
+https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",ARB TV
-https://yayin2.canlitv.fun/live/arb.stream/chunklist_w256176990.m3u8
+https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV
-",https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1159016898.m3u8
+https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
 https://cbcsport.tvstream.az/hls/stream3/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
@@ -63,9 +63,9 @@ https://idman.tvstream.az/hls/stream4/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Real TV
 https://realtv.tvstream.az/hls/stream2/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Space TV
-https://space.tvstream.az/hls/stream8/index.m3u8
+https://yayin2.canlitv.fun/live/spacetv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",Xəzər TV
-https://xezer.tvstream.az/hls/stream/index.m3u8
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 
 #EXTINF:-1 group-title="Azərbaycan radio",Araz FM
 https://s14.myradiostream.com/30454/listen.mp3
@@ -89,7 +89,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 group-title="Türk TV",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Türk TV",CNN Türk
-https://yayin2.canlitv.fun/live/cnnturk.stream/chunklist_w1888931680.m3u8
+https://yayin2.canlitv.fun/live/cnnturk.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Türk TV",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Türk TV",Power türk acoustic
@@ -105,7 +105,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 group-title="Türk TV",TV 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:-1 group-title="Türk TV",TV 8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Türk TV",TV24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 group-title="Türk TV",Türksat7
