@@ -32,12 +32,8 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="ქართული რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
-#EXTINF:-1 group-title="Lounge radio",0R coffee background
-https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="Lounge radio",0R dinner lounge
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
-#EXTINF:-1 group-title="Lounge radio",0R hotel lounge
-https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="Lounge radio",0R restaurant lounge
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="Lounge radio",Airport lounge
@@ -46,8 +42,6 @@ https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
-#EXTINF:-1 group-title="Lounge radio",Smooth Bossa nova
-https://radio.hearme.fm:8800/stream
 #EXTINF:-1 group-title="Lounge radio",Smooth lounge radio
 https://radio.hearme.fm:8810/stream
 
@@ -90,13 +84,13 @@ https://icecast.livetv.az/antennfm
 https://stream.itv.az/rtmp:/radio/playlist.m3u8
 #EXTINF:-1 group-title="Azərbaycan radio",Media FM
 https://icecast.livetv.az/mediafm
+#EXTINF:-1 group-title="Türk radio",TMB Radio
+https://s39.myradiostream.com/:5458/listen.mp3
 #EXTINF:-1 group-title="Azərbaycan radio",Xəzər FM
 https://s40.myradiostream.com/22546/listen.mp3
 
 #EXTINF:-1 group-title="Русские каналы",Мир
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/113/index.m3u8
-#EXTINF:-1 group-title="Русские каналы",Мой Мир
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/5008/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",НТВ
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19405/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Первый канал
@@ -159,5 +153,3 @@ https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:-1 group-title="Türk radio",Power Türk acoustic
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
-#EXTINF:-1 group-title="Türk radio",TMB Radio
-https://s39.myradiostream.com/:5458/listen.mp3
