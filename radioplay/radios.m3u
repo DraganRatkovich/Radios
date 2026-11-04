@@ -57,6 +57,8 @@ https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=2a793b2548120f053c
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV
 https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
+#EXTINF:-1 group-title="Azərbaycan TV",CBC TV Alternative
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/1050/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
 https://cbcsport.tvstream.az/hls/stream3/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
@@ -89,18 +91,38 @@ https://s39.myradiostream.com/:5458/listen.mp3
 #EXTINF:-1 group-title="Azərbaycan radio",Xəzər FM
 https://s40.myradiostream.com/22546/listen.mp3
 
+#EXTINF:-1 group-title="Русские каналы",Известия
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/18039/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Москва 24
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/523/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Мир
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/113/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",National Geographic
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2336/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",National Geographic Wild
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9264/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",НТВ
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19405/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Первый канал
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19241/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",РЕН ТВ
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19404/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Россия 1
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19242/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Россия 24
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/15412/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",СТС
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/506/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",ТНТ
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/502/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Viju Explore
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9075/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Viju History
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9060/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Viju Nature
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9295/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Звезда
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/544/index.m3u8
 
 #EXTINF:-1 group-title="Türk TV",A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
