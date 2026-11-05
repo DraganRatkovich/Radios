@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 #EXTINF:-1 group-title="ქართული ტელევიზია",TV Imedi
@@ -35,6 +36,10 @@ https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music radio lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
+#EXTINF:-1 group-title="Lounge radio",Number 1 lounge
+https://ssldyg2.radyotvonline.com/live/lounge.stream/playlist.m3u8
+#EXTINF:-1 group-title="Lounge radio",Relax home
+https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
 #EXTINF:-1 group-title="Lounge radio",Smooth lounge radio
 https://radio.hearme.fm:8810/stream
 
@@ -172,6 +177,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Türk TV",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Türk radio",Enerji FM
+https://live.enerjiplay.com/stream/enerji?/;stream.mp3
 #EXTINF:-1 group-title="Türk radio",Joy Türk
 https://25533.live.streamtheworld.com/JOY_TURKAAC.aac
 #EXTINF:-1 group-title="Türk radio",Kalp FM
@@ -180,7 +187,15 @@ https://yayin.kalpfm.com:8080/stream?/;stream.aac
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 #EXTINF:-1 group-title="Türk radio",Kral pop Alternative
 https://dygedge.radyotvonline.net/kralpop/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Number 1 Türk
+https://number1.radyotvonline.net/hls/play/number1_turk_fm.m3u8
+#EXTINF:-1 group-title="Türk radio",Pop Besk
+https://playerservices.streamtheworld.com/api/livestream-redirect/POPBESK128AAC.aac
 #EXTINF:-1 group-title="Türk radio",Power Türk
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:-1 group-title="Türk radio",Power Türk acoustic
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Super 2 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac
+#EXTINF:-1 group-title="Türk radio",Viva Pop
+https://listen.radyotvonline.net/hls/play/viva_pop.m3u8
