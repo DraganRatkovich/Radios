@@ -201,6 +201,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/POPBESK128AAC.
 https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
 #EXTINF:-1 group-title="Türk radio",Power Türk acoustic
 https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8
+#EXTINF:-1 group-title="Türk radio",Radyo 34
+https://streams.tvrads.com/rawstream/radyo34
 #EXTINF:-1 group-title="Türk radio",Super 2 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2128AAC.aac
 #EXTINF:-1 group-title="Türk radio",Viva Pop
