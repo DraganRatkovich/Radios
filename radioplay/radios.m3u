@@ -30,9 +30,13 @@ http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26
 #EXTINF:-1 group-title="Lounge radio",0R restaurant lounge
 https://0nlineradio.radioho.st/lounge-restaurant-lounge?ref=radio-browser26
+#EXTINF:-1 group-title="Lounge radio",Music Radio Chillout
+https://radio.musicradio.ai/listen/music_radio_chillout/radio.mp3
+#EXTINF:-1 group-title="Lounge radio",Music Radio Acoustic
+https://radio.musicradio.ai/listen/music_radio_acoustic/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music Radio Lofy
 https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
-#EXTINF:-1 group-title="Lounge radio",Music radio lounge
+#EXTINF:-1 group-title="Lounge radio",Music radio Lounge
 https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
