@@ -146,6 +146,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Türk TV",CNN Türk
 https://yayin2.canlitv.fun/live/cnnturk.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
+#EXTINF:-1 group-title="Türk TV",Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8?hash=0cf3369a21d8a7f34c0b17371d75711c
 #EXTINF:-1 group-title="Türk TV",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="Türk TV",Power türk acoustic
@@ -154,6 +156,8 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://yayin2.canlitv.fun/live/showtv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Türk TV",Star TV
 https://yayin2.canlitv.fun/live/startv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
+#EXTINF:-1 group-title="Türk TV",Tarım TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 group-title="Türk TV",TGRT Haber
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 group-title="Türk TV",TV 4
