@@ -2,8 +2,18 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="ქართული ტელევიზია",TV Imedi
+#EXTINF:-1 group-title="ქართული ტელევიზია",აჭარა TV
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2208/index.m3u8
+#EXTINF:-1 group-title="ქართული ტელევიზია",Euronews Georgia
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19328/index.m3u8
+#EXTINF:-1 group-title="ქართული ტელევიზია",GDS
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2202/index.m3u8
+#EXTINF:-1 group-title="ქართული ტელევიზია",იმედი
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
+#EXTINF:-1 group-title="ქართული ტელევიზია",მაესტრო
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2203/index.m3u8
+#EXTINF:-1 group-title="ქართული ტელევიზია",ობიექტივი
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2207/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",Pos TV
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",პირველი არხი
@@ -95,6 +105,8 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/218
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/17023/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",DocuBox
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/968/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Inside TV
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/5000/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Love Nature
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/31546/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Museum
@@ -105,8 +117,10 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/233
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2067/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",TravelXP
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/20031/index.m3u8
-#EXTINF:-1 group-title="Русские каналы",Venera TV мир дети
+#EXTINF:-1 group-title="Русские каналы",Venera TV - мир дети
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/30150/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Venera TV - Советская классика
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/30151/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Viju Explore
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9075/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Viju History
