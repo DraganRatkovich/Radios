@@ -64,7 +64,7 @@ https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV Alternative
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/1050/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
-https://cbcsport.tvstream.az/hls/stream/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://cbcsport.tvstream.az/
+https://cbcsport.tvstream.az/hls/stream/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://cbcsport.tvstream.az
 #EXTINF:-1 group-title="Azərbaycan TV",Dünya TV
 https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
