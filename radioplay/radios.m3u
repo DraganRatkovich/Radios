@@ -101,8 +101,14 @@ https://s40.myradiostream.com/22546/listen.mp3
 
 #EXTINF:-1 group-title="Русские каналы",Animal planet
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/218/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Baby time
+		https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/20030/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",BCU Kids
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/17023/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Cartoon classics
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2075/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",CineMan - kids
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/32229/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",DocuBox
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/968/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Inside TV
@@ -129,6 +135,10 @@ https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/906
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/9295/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Известия
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/18039/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",Карусель
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/20012/index.m3u8
+#EXTINF:-1 group-title="Русские каналы",КиноМульт
+https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/20009/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Москва 24
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/523/index.m3u8
 #EXTINF:-1 group-title="Русские каналы",Мир
