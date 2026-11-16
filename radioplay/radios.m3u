@@ -36,18 +36,8 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 #EXTINF:-1 group-title="ქართული რადიო",მარნეული FM
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
-#EXTINF:-1 group-title="Lounge radio",Go Jazz
-https://live.gofm.ro:2020/stream/goJAZZ
-#EXTINF:-1 group-title="Lounge radio",Music Radio - Acoustic
-https://radio.musicradio.ai/listen/music_radio_acoustic/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music Radio - Chillout
 https://radio.musicradio.ai/listen/music_radio_chillout/radio.mp3
-#EXTINF:-1 group-title="Lounge radio",Music Radio - Lofy
-https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
-#EXTINF:-1 group-title="Lounge radio",Music Radio - Lounge
-https://radio.musicradio.ai/listen/music_radio_lounge/radio.mp3
-#EXTINF:-1 group-title="Lounge radio",Smooth Jazz
-https://radio.hearme.fm:8190/stream
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
@@ -64,7 +54,7 @@ https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV Alternative
 https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/1050/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
-https://cbcsport.tvstream.az/hls/stream/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://cbcsport.tvstream.az
+https://cbcsport.tvstream.az/hls/stream/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Dünya TV
 https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
