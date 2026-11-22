@@ -37,11 +37,11 @@ https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8
 http://stream.it-solutions.ge:8000/mp3-radiomarneulifm
 
 #EXTINF:-1 group-title="Lounge radio",Soothing Jazz
+http://213.238.180.199:8020/soothingjazz
 #EXTINF:-1 group-title="Lounge radio",Music Radio - Chillout
+https://radio.musicradio.ai/listen/music_radio_chillout/radio.mp3
 #EXTINF:-1 group-title="Lounge radio",Music Radio Focus
 https://radio.musicradio.ai/listen/music_radio_focus_study/radio.mp3
-http://213.238.180.199:8020/soothingjazz
-https://radio.musicradio.ai/listen/music_radio_chillout/radio.mp3
 
 #EXTINF:-1 group-title="Azərbaycan TV",ATV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
