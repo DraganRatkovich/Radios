@@ -3,23 +3,23 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="ქართული ტელევიზია",აჭარა TV
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2208/index.m3u8
+https://live2.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/19rd/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",Euronews Georgia
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/19328/index.m3u8
+https://live2.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/18sd/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",GDS
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2202/index.m3u8
+https://live1.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/13sd/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",იმედი
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7156/index.m3u8
+https://tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",მაესტრო
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2203/index.m3u8
+https://live4.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/352m/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",ობიექტივი
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/2207/index.m3u8
+https://live2.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/7m/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",Pos TV
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7150/index.m3u8
+https://live6.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/postvw/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",პირველი არხი
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7143/index.m3u8
+https://live1.mar.tv/30d52126166d694bc4f3f0d85e66fa75ea611b87f4163321c9535c2730c7bc33/1arxiw/index.m3u8
 #EXTINF:-1 group-title="ქართული ტელევიზია",რუსთავი 2
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/7171/index.m3u8
+https://live8.mar.tv/1/4rd/index.m3u8
 
 #EXTINF:-1 group-title="ქართული რადიო",არდაიდარდო
 https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8
