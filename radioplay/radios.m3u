@@ -69,10 +69,8 @@ https://yayin2.canlitv.fun/live/arb.stream/playlist.m3u8?hash=2a793b2548120f053c
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC TV
 https://yayin2.canlitv.fun/live/cbc.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
-#EXTINF:-1 group-title="Azərbaycan TV",CBC TV Alternative
-https://ipservice.tv/stream/http/wt89ekl7.streamoras.top/iptv/G9W86S6T3ZG67N/1050/index.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",CBC Sport
-https://andro.evrenesoglu235.click/checklist/androstreamlivecbcs.m3u8
+https://cbcsport.tvstream.az/hls/stream3/stream.m3u8
 #EXTINF:-1 group-title="Azərbaycan TV",Dünya TV
 https://yayin2.canlitv.fun/live/dunyatv.stream/playlist.m3u8?hash=2a793b2548120f053c5ec71a953da459
 #EXTINF:-1 group-title="Azərbaycan TV",Ictimai TV
